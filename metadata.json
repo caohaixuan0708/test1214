@@ -1,0 +1,5 @@
+{
+  "name": "iNote AI",
+  "description": "一款类似 Apple 风格的记事本应用，具有流畅的待办事项列表和 AI 文本润色功能。",
+  "requestFramePermissions": []
+}
